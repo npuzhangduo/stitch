@@ -1,0 +1,1 @@
+1. surf算法拥有专利问题，需要重新编译，并在进行cmake编译的时候勾选“OPENCV_ENABLE_NONFREE”，有anaconda的话camke要加命令行参数-D WITH_OPENMP=ON
